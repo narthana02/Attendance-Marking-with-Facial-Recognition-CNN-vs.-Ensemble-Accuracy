@@ -1,1 +1,4 @@
 # Attendance-Marking-with-Facial-Recognition-CNN-vs.-Ensemble-Accuracy
+
+This project compares the accuracy of a Convolutional Neural Network (CNN) model and an ensemble model (CNN-SVM) for facial recognition-based attendance marking. Grayscale facial images are used to train and test the CNN model. The ensemble model combines CNN and Support Vector Machine (SVM) predictions for improved accuracy. Images undergo preprocessing, resizing, and normalization before feeding into the models. Results show the ensemble model's superiority, achieving enhanced accuracy over the CNN model. The ensemble approach, averaging predictions from CNN and SVM, proves effective for attendance marking, particularly in varying conditions. This study highlights the potential of ensemble models for reliable attendance systems.
+![image](https://github.com/narthana02/Attendance-Marking-with-Facial-Recognition-CNN-vs.-Ensemble-Accuracy/assets/139104204/63c61fcf-cf3c-4fc4-91b9-59af494a10ea)
